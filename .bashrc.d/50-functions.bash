@@ -1,6 +1,6 @@
 # Set terminal title, which is useful for identification.
 #
-# param: Title string.
+# $@: Title string.
 #
 # Example:
 #   title hello world
